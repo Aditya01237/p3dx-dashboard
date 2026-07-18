@@ -1,0 +1,14 @@
+node_modules/
+.pnpm-store/
+dist/
+.vite/
+
+.env
+.env.*
+!.env.example
+
+.DS_Store
+*.log
+
+tmp/
+output/
