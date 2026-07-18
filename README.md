@@ -2,8 +2,6 @@
 
 A frontend prototype for governed cross-border data exchange, built with React and Tailwind CSS.
 
-The demo shows MIT requesting Aarav Mehta's academic details from Bengaluru University. It covers the connection flow, consent control, and transaction audit trail.
-
 ## Features
 
 - World and gateway navigation
